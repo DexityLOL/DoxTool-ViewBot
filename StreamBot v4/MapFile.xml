@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<XMLmap>
+    <Checker_Worker_Console.HideMyAss name="Checker_Worker_Console.HideMyAss">
+        <_.cctor name=".cctor" />
+        <_.ctor name=".ctor" />
+        <Base64Decode name="Base64Decode" />
+        <HideMyAssCheck name="HideMyAssCheck" />
+        <lock name="lock" />
+        <Scraped name="Scraped" />
+        <writeToText name="writeToText" />
+    </Checker_Worker_Console.HideMyAss>
+    <Checker_Worker_Console.NordVPN name="Checker_Worker_Console.NordVPN">
+        <_.ctor name=".ctor" />
+        <c__DisplayClass1_0 name="c__DisplayClass1_0">
+            <_.ctor name=".ctor" />
+            <videoid name="videoid" />
+        </c__DisplayClass1_0>
+        <c__DisplayClass1_1 name="c__DisplayClass1_1">
+            <_.ctor name=".ctor" />
+            <NordCheckb__0 name="NordCheckb__0" />
+            <CS8__locals1 name="CS8__locals1" />
+            <prxy name="prxy" />
+        </c__DisplayClass1_1>
+        <BotLoop name="BotLoop" />
+        <BotsViewingStream name="BotsViewingStream" />
+        <NordCheck name="NordCheck" />
+    </Checker_Worker_Console.NordVPN>
+    <Checker_Worker_Console.Program name="Checker_Worker_Console.Program">
+        <_.ctor name=".ctor" />
+        <Main name="Main" />
+    </Checker_Worker_Console.Program>
+</XMLmap>
